@@ -1,0 +1,15 @@
+{
+  "name": "freespeech",
+  "version": "1.0.0",
+  "description": "Website for EN105 Free Speech Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomgiagtz/skidmorefreespeech.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
