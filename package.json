@@ -11,5 +11,8 @@
     "url": "https://github.com/tomgiagtz/skidmorefreespeech.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "xlsx-to-json": "^0.3.0"
+  }
 }
