@@ -12,7 +12,7 @@ void setup() {
   size(1000, 1500);
   background(255);
   table = loadTable("https://raw.githubusercontent.com/tomgiagtz/skidmorefreespeech/master/data.csv", "header");
-  println(table.getRowCount() + " total rows in table");
+  println(table.getRowCount() + " total rows in table"); 
   r = table.getRowCount() / QUESTIONS;
   
   questions = new IntDict();
@@ -105,6 +105,3 @@ int[] normalize(int[] arr) {
   
   return result;
 }
-
-
-
